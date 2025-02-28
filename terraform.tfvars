@@ -1,5 +1,6 @@
 aws_region           = "ap-south-1"
 cluster_name         = "eks-cluster"
+#eks cluster 1.27
 cluster_version      = "1.27"
 # VPC and Subnet Configuration
 vpc_id              = "vpc-xxxxx"  # Replace with your actual VPC ID
